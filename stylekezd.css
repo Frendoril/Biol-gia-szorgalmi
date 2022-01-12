@@ -1,0 +1,53 @@
+body{
+    background-image: url("hater.jpg");
+    background-repeat: no-repeat;
+    background-size: 102%;
+    font-size: 62px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;       
+    margin: 0;
+    padding: 0;      
+}
+
+html{
+    margin: 0;
+}
+
+table{
+    margin: auto;
+    vertical-align: left;
+    border-spacing: 30px;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+a{
+    color: #17124d;
+    text-decoration: none;
+}
+
+.bot{
+    margin-bottom: 0px;
+}
+
+.top{
+    margin-top: 400px;
+}
+
+p.igen{
+    font-size: 30px;
+    color: black;
+    text-align: right;
+}
+
+table.fejlec{
+    width: 100%;
+    margin-top: 0px;
+    vertical-align: top;
+    background-color: #17124d;
+    color: #b5b5b5;
+}
+
+p.smol{
+    font-size: 20px;
+    margin: 0px;
+}

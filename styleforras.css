@@ -1,0 +1,59 @@
+html{
+    margin: 0px;
+}
+
+body{
+    background-color: #63a67a;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 22px;
+    display: block;
+}
+
+table.egy{
+    width: 100%;
+    background-color: #40664d;
+    margin-top: 0px;
+    color: white;
+    vertical-align: top;
+}
+
+p.cim{
+    font-size: 56px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    margin: 0px;
+    margin-left: 10px;
+}
+
+p.vissza{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-color: white;
+    border-radius: 20%;
+    text-align: center;
+    color: black;
+    width: 20%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+p.szov{
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    font-size: 40px;
+}
+
+ul.felso{
+    font-size: large;
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}

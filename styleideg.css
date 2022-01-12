@@ -1,0 +1,140 @@
+body{
+    background-image: url('ideg.jpg');
+    background-size: 175%;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: 22px;
+    display: block;
+}
+
+table.egy{
+    width: 100%;
+    background-color: #17124d;
+    margin-top: 0px;
+    color: cyan;
+    vertical-align: top;
+}
+
+html{
+    margin: 0px;
+}
+
+p.cim{
+    font-size: 56px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    margin: 0px;
+    margin-left: 10px;
+}
+
+p.vissza{
+    font-size: 20px;
+    margin: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-color: cyan;
+    border-radius: 20%;
+    text-align: center;
+    color: black;
+    width: 50%;
+}
+
+td.bal{
+    width: 90%;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    margin-left: 250px;
+    font-size: 54px;
+    display: block;
+    margin-top: 80px;
+}
+
+li.lu{
+    margin: 20px;
+}
+
+img.job{
+    float: right;
+    display: block;
+    margin-top: 40px;
+    margin-right: 300px;
+    width: 36%;
+    border: 2px black solid;
+    border-radius: 10%;
+}
+
+h1{
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+table.szovegek{
+    width: 90%;
+    margin: auto;
+    /*border: 2px black solid;*/
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+ul.egy{
+    font-size: large;
+    text-align: left;
+    margin: 0;
+}
+
+ul.ketto{
+    font-size: medium;
+    margin: 0;
+}
+
+td.szov{
+    text-align: left;
+    vertical-align: top;
+    width: 60%;
+}
+
+h2{
+    margin-left: 10px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+table.fels{
+    color: white;
+    margin: 0px;
+    border: 2px white solid;
+}
+
+p.a{
+    margin: 0px 0px 0px 10px;
+    text-align: unset;
+}
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p.visza2{
+    font-size: 20px;
+    margin: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-color: cyan;
+    border-radius: 15%;
+    text-align: center;
+    color: black;
+    width: 15%;
+}
+
